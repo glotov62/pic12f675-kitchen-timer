@@ -43,6 +43,8 @@ This repository contains:
 * `.hex` - Compiled firmware file, ready to flash into the microcontroller.
 * `.lay6, .jpg` - Schematic diagrams and PCB layouts.
 
+### 🖼 Schematic
+![Kitchen Timer Schematic](schematic.jpg)
 ---
 
 ## 🛠 How to Build It
