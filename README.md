@@ -44,7 +44,7 @@ This repository contains:
 * `.lay6, .jpg` - Schematic diagrams and PCB layouts.
 
 ### 🖼 Schematic
-![Kitchen Timer Schematic](schematic.jpg)
+![Kitchen Timer Schematic](schematic.JPG)
 ---
 
 ## 🛠 How to Build It
