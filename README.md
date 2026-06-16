@@ -49,7 +49,7 @@ This repository contains:
 ![Kitchen Timer Schematic](schematic.JPG)
 
 ### 📷 Assembled PCB
-![Assembled PCB Photo](foto3.JPG)
+![Assembled PCB Photo](foto3.jpg)
 ---
 
 ## 🛠 How to Build It
