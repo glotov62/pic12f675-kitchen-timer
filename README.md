@@ -29,8 +29,8 @@ Since the PIC12F675 has limited I/O pins, the hardware layout maximizes efficien
 | **VDD** (Pin 1) | Power | +3.7V ... +4.2V (Li-Ion Battery) |
 | **GP0** (Pin 7) | Output | Power MOSFET Gate (IRF7416) control |
 | **GP1** (Pin 6) | Output | Buzzer control |
-| **GP2** (Pin 5) | Input | Reset / Dedicated Button (MCLR) |
-| **GP3** (Pin 4) | Input | Control Buttons Matrix |
+| **GP2** (Pin 5) | Input | Control Button  |
+| **GP3** (Pin 4) | Input | Control Button  |
 | **GP4** (Pin 3) | I/O | TM1637 DIO (Data Input/Output) |
 | **GP5** (Pin 2) | Output | TM1637 CLK (Clock) |
 | **VSS** (Pin 8) | Ground | GND |
@@ -99,8 +99,8 @@ This repository contains:
 | **VDD** (Вывод 1) | Питание | +3.7V ... +4.2V (Li-Ion аккумулятор) |
 | **GP0** (Вывод 7) | Выход | Управление затвором полевого транзистора (IRF7416) |
 | **GP1** (Вывод 6) | Выход | Управление активным зуммером |
-| **GP2** (Вывод 5) | Вход | Сброс (MCLR) / Выделенная кнопка |
-| **GP3** (Вывод 4) | Вход | Матрица кнопок управления |
+| **GP2** (Вывод 5) | Вход | Кнопка управления |
+| **GP3** (Вывод 4) | Вход | Кнопка управления |
 | **GP4** (Вывод 3) | Ввод/Вывод | Линия данных TM1637 DIO |
 | **GP5** (Вывод 2) | Выход | Линия тактирования TM1637 CLK |
 | **VSS** (Вывод 8) | Земля | Общий провод (GND) |
