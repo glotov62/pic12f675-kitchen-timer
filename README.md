@@ -9,8 +9,6 @@ and deep sleep power-saving features into a tiny 8-pin **PIC12F675** microcontro
 
 ## 🌟 Features
 
-## 🌟 Features
-
 * **Microcontroller:** Microchip PIC12F675 (DIP-8 or SOIC-8).
 * **Display Module:** 4-digit 7-segment display driven by the **TM1637** chip (requires only 2 GPIO pins).
 * **Time Range:** Adjustable from 5 to 90 minutes with a convenient 5-minute step.
@@ -82,8 +80,6 @@ This repository contains:
 
 ## 🌟 Особенности проекта
 
-## 🌟 Особенности проекта
-
 * **Микроконтроллер:** Microchip PIC12F675 (в корпусе DIP-8 или SOIC-8).
 * **Модуль дисплея:** 4-разрядный 7-сегментный индикатор на базе чипа **TM1637** (управляется всего по 2 выводам GPIO).
 * **Диапазон времени:** Настройка от 5 до 90 минут с удобным шагом в 5 минут.
@@ -119,6 +115,9 @@ This repository contains:
 
 ### 🖼 Schematic
 ![Kitchen Timer Schematic](schematic.JPG)
+
+### 📷 Assembled PCB
+![Assembled PCB Photo](foto3.jpg)
 ---
 
 ## 🛠 Инструкция по сборке
